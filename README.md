@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **python, react, typescript**
 
-- 👨‍💻 All of my projects are available at [[3-10-media-queries-b1by.vercel.app/](3-10-media-queries-b1by.vercel.app/)](https://github.com/Ashley-Blu)
+- 👨‍💻 All of my projects are available at [[3-10-media-queries-b1by.vercel.app/](3-10-media-queries-b1by.vercel.app/)]
 
 - 💬 Ask me about **HTML, CSS, javaScript, Java**
 
